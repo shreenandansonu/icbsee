@@ -2411,6 +2411,10 @@
     margin-right: -15px;
   }
 
+  .u-section-6 .u-repeater-1 {
+    min-height: 483px;
+  }
+
   .u-section-6 .u-text-3 {
     font-weight: 700;
     width: auto;
@@ -2432,8 +2436,7 @@
   .u-section-6 .u-group-1 {
     min-height: 442px;
     width: 370px;
-    margin-left: -15px;
-    margin-right: -15px;
+    margin: 25px -15px 51px;
   }
 
   .u-section-6 .u-text-4 {
